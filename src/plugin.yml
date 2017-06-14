@@ -1,0 +1,13 @@
+name: Announcer
+version: 1
+description: Open source announcer plugin by GlitchedTurtle
+author: GlitchedTurtle on GitHub
+main: glitchedturtle.announce.Announce
+website: http://www.mc-market.org/members/39693/
+commands:
+  announcer:
+    description: 'Main command for Announcer plugin'
+    permission: announcer.command
+permissions:
+   announcer.command:
+     description: Gives access to the announcer command

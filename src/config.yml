@@ -1,0 +1,21 @@
+# ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+#   Delay in seconds per announcement
+# ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+announce-delay: 100
+
+# ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+#   Message that is used to announce.
+#     - Use %message% for the announcement
+#
+#   ~ Support for chatcolors: use &
+# ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+announce-message: "&c&l[ANNOUNCEMENT]&r %message%"
+
+# ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+#   List of announcements
+#
+#   ~ Support for chatcolors: use &
+# ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+announcements:
+    - "My name jeff"
+    - "&6DIAMONDS ORE HALF PRICE ON STORE -> http://glitchedturtle.com"
